@@ -41,7 +41,7 @@ Module STRING_COLUMN
 			ProcedureReturn *this
 		EndWith
 	EndProcedure
-	
+	; hello
 	
 	DataSection
 	  S_MET:
@@ -49,7 +49,7 @@ Module STRING_COLUMN
 	EndDataSection
 EndModule
 ; IDE Options = PureBasic 5.72 LTS Beta 1 (Windows - x64)
-; CursorPosition = 34
-; FirstLine = 1
+; CursorPosition = 43
+; FirstLine = 4
 ; Folding = W-
 ; EnableXP
