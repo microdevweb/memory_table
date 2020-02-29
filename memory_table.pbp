@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.72 LTS Beta 1 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Nouveau projet"/>
+  </section>
+  <section name="data">
+    <explorer view="lib\table\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2020-02-29 08:32" user="microdev" host="DESKTOP-LST5252"/>
+  </section>
+  <section name="files">
+    <file name="main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="20ea443a62da143ac7500aefa3fa124a"/>
+    </file>
+    <file name="include\fifo.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="b27901137970bfc1f420452684c765cd"/>
+    </file>
+    <file name="include\memoryTable.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="05122ee18bb6223dd914b323142b154a"/>
+    </file>
+    <file name="include\properties.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="36402329758c1b453938e7ac51d44d01"/>
+    </file>
+    <file name="lib\table\column.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+++"/>
+      <fingerprint md5="2829553da625ad3e093706627c94c507"/>
+    </file>
+    <file name="lib\table\stringColumn.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+++"/>
+      <fingerprint md5="49605c6807611d916b4c23b3ef39e019"/>
+    </file>
+    <file name="lib\table\table.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+++"/>
+      <fingerprint md5="b60948223397ddababfe32883b90e6d5"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="model.pb"/>
+      <outputfile value=""/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
